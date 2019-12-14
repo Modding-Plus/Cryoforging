@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+#issueTrackerURL=""
+
+[[mods]]
+modId="cryoforging"
+version="${file.jarVersion}"
+displayName="Cryoforging"
+#updateJSONURL=""
+#displayURL=""
+#logoFile=""
+#credits=""
+authors="cipherzerox, Trikzon, Equinox, Pugz, Gegy"
+description='''
+
+'''
+
+[[dependencies.cryoforging]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cryoforging]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
