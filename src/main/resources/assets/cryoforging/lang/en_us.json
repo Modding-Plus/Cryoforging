@@ -1,0 +1,12 @@
+{
+  "itemGroup.cryoforging": "Cryoforging",
+
+  "item.cryoforging.winter_steel": "Winter Steel",
+  "block.cryoforging.winter_steel_block": "Winter Steel Block",
+  "item.cryoforging.frost_gold": "Frost Gold",
+  "block.cryoforging.frost_gold_block": "Frost Gold Block",
+
+  "item.cryoforging.ice_crown": "Nevis Cronum",
+
+  "block.cryoforging.artic_stone": "Artic Stone"
+}
